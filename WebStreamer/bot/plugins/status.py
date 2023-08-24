@@ -30,15 +30,16 @@ async def start(b: Client, m: Message):
     memory = psutil.virtual_memory().percent
     disk = psutil.disk_usage('/').percent
 
-    sys_stat = f"""<b>Bot Uptime:</b> {uptime}
-<b>Total disk space:</b> {total}
-<b>Used:</b> {used}
-<b>Free:</b> {free}\n
-📊Data Usage📊\n<b>Upload:</b> {sent}
-<b>Down:</b> {recv}\n
-<b>CPU:</b> {cpuUsage}% 
-<b>RAM:</b> {memory}% 
-<b>Disk:</b> {disk}%"""
+    sys_stat = f"""⌬<b>Bot Uptime:</b> {uptime}
+╭<b>Total disk space:</b> {total}
+├<b>Used:</b> {used}
+├<b>Free:</b> {free}\n
+├<b>Upload:</b> {sent}
+├<b>Down:</b> {recv}\n
+├<b>CPU:</b> {cpuUsage}% 
+├<b>RAM:</b> {memory}% 
+╰<b>Disk:</b> {disk}%\n\n
+●<b>𝙈𝙖𝙞𝙣𝙩𝙖𝙞𝙣 𝘽𝙔: [🇹​​🇴​​🇲​​🇪​​🇳​](https://t.me/KingOfFondness)</b>\n"""
 
     await m.reply_text(
         text=sys_stat,
