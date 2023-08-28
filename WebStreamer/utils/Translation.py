@@ -49,12 +49,11 @@ Nsғᴡ Rᴇsᴛʀɪᴄᴛᴇᴅ 🚫 Bʀᴇᴀᴋɪɴɢ Rᴜʟᴇs Lᴇᴀᴅs 
 
     class Test(object):
         START_TEXT = """
-<i>👋 Hᴇʏ in Russian,</i>{}\n
-<i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
-<i>Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</i>\n
-<i><u>𝗪𝗔𝗥𝗡𝗜𝗡𝗚 🚸</u></i>\n
-<b>🔞 Pᴏʀɴ ᴄᴏɴᴛᴇɴᴛꜱ ʟᴇᴀᴅꜱ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ ʏᴏᴜ.</b>\n\n
-<i><u>𝙋𝙊𝙒𝙀𝙍 𝘽𝙔 𝙂ᴍ 𝘽ᴏᴛᴢᴢ™⚡</u></i>"""
+<b>Hᴇʟʟᴏ👋 {}\n
+ɪ Aᴍ Pᴏᴡᴇʀꜰᴜʟʟ Fɪʟᴇ Tᴏ + Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Aɴᴅ Sᴛᴏʀᴀɢᴇ Bᴏᴛ Iɴ 4GB.\n
+Wᴀʀɴɪɴɢ ⚠
+Nsғᴡ Rᴇsᴛʀɪᴄᴛᴇᴅ 🚫 Bʀᴇᴀᴋɪɴɢ Rᴜʟᴇs Lᴇᴀᴅs Yᴏᴜ Tᴏ Pᴇʀᴍᴀɴᴇɴᴛ Bᴀɴ\n
+💥 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/GM_Botzz'>Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
 # ------------------------------------------------------------------------------
 
