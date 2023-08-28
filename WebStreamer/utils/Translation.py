@@ -18,7 +18,7 @@ class Language(object):
 ɪ Aᴍ Pᴏᴡᴇʀꜰᴜʟʟ Fɪʟᴇ Tᴏ + Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Aɴᴅ Sᴛᴏʀᴀɢᴇ Bᴏᴛ Iɴ 4GB.\n
 Wᴀʀɴɪɴɢ ⚠
 Nsғᴡ Rᴇsᴛʀɪᴄᴛᴇᴅ 🚫 Bʀᴇᴀᴋɪɴɢ Rᴜʟᴇs Lᴇᴀᴅs Yᴏᴜ Tᴏ Pᴇʀᴍᴀɴᴇɴᴛ Bᴀɴ\n
-💥 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :<a href='https://t.me/GM_Botzz'>Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
+💥 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href='https://t.me/GM_Botzz'>Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
         HELP_TEXT = """
 <i>- Sᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ (ᴏʀ) ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.</i>
