@@ -30,11 +30,11 @@ class Language(object):
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/KingOfFondness'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
         ABOUT_TEXT = """
-⌬<b><i>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖</i></b>\n\n
-╭<b>Mʏ ɴᴀᴍᴇ : 𝙁𝙞𝙡𝙚 𝙏𝙤 𝙇𝙞𝙣𝙠 𝘽𝙤𝙩</b>\n
-├<b>Vᴇʀꜱɪᴏɴ : 1.7.2</b>\n
-├<b>Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : </b>
-╰<b>Owner : [Mikey](https://t.me/KingOfFondness)</b>
+⌬<b><i>𝔸𝕓𝕠𝕦𝕥 𝕄𝕖 ✨</i></b>\n\n
+╭<b>🍁 Mʏ ɴᴀᴍᴇ : 𝙁𝙞𝙡𝙚 𝙏𝙤 𝙇𝙞𝙣𝙠 𝘽𝙤𝙩</b>\n
+├<b>💥 Vᴇʀꜱɪᴏɴ : 1.7.2</b>\n
+├<b>🎭 Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : </b>
+╰<b>🤖 Owner : [Mikey](https://t.me/KingOfFondness)</b>
 ●<b>𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝘽𝙔: [Gᴍ Bᴏᴛᴢᴢ™](https://t.me/GM_Botzz)</b>\n
 """
 
