@@ -1,4 +1,4 @@
-# This file is a part of TG-FileStreamBot
+This file is a part of TG-FileStreamBot
 
 from WebStreamer.bot import StreamBot
 from WebStreamer.vars import Var
@@ -32,4 +32,4 @@ async def help_handler(bot, message):
         parse_mode=ParseMode.HTML,
         disable_web_page_preview=True,
         reply_markup=BUTTON.HELP_BUTTONS
-    )
+)
